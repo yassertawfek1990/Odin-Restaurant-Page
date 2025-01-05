@@ -1,0 +1,7 @@
+follow chatgpt example but
+use the same webpack.config.js file in this folder 
+Don not add   <script src="./main.js"></script> to the index.html file because wepback will add a one automatically
+run npx webpack // this will create the dest folder we do not create it
+if no images needed scip the part eeded for images
+we can refere to odin project page 
+run npx webpack serve for testing live preview
